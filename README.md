@@ -1,6 +1,6 @@
 ## Twitter analysis with Map Reduce
-#### PART A: Message Length Analysis 
-#### PART B1: Time Analysis 
-#### PART B2: Time Analysis
-#### PART C1: Support Analysis 
-#### PART C2: Support Analysis 
+#### PART A:  Tweet size distribution
+#### PART B1: Tweet frequency per hour
+#### PART B2: Top 10 hashtags posted during the most popular hour
+#### PART C1: Top 30 athletes in # of mentions
+#### PART C2: Top 20 sports according to mentions of athletes
